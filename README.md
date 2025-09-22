@@ -61,13 +61,6 @@ The solver uses **Constraint Satisfaction** with the following logic:
    - Words missing required "yellow/green" letters
    - Words not matching position constraints
 
-## File Structure
-
-```
-wordle_helper.py    # Main application
-words.txt          # Word list (you need to provide this)
-README.md          # This file
-```
 
 ## Example Usage
 
